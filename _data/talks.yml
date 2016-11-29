@@ -1,0 +1,94 @@
+- name: Webpack for dummies
+  url: https://1drv.ms/p/s!AuspEfeOIxcxgYMPE_hapCsOUD0kHg
+  event: js.talks()
+  date: November 2016
+
+- name: Building and Scaling Software Teams
+  url: https://docs.google.com/presentation/d/1m8tzBp_86vz3RdRwL6g0QcRSbHZsR8wAWzfMXlQmrAs
+  event: IT Team Leads User Group
+  date: November 2016
+
+- name: Build Your Own Agile
+  url: https://onedrive.live.com/redir?resid=3117238EF71129EB%2112668
+  event: 2DoIT All Stars
+  date: April 2016
+
+- name: Building Cross Platform Mobile Apps with Icenium
+  url: http://sdrv.ms/11TRh3d
+  event: Icenium Day
+  date: December 2012
+
+- name: LINQ, Take two
+  url: http://sdrv.ms/NhGJGe
+  event: Microsoft Days Bulgaria
+  date: March 2011
+
+- name: Compose your thinking then your apps with MEF and Prism
+  url: http://sdrv.ms/UA7git
+  event: Silverlight User Group Bulgaria
+  date: January 2010
+
+- name: Introduction to MEF
+  url: http://sdrv.ms/O2aW7F
+  event: Microsoft Days Bulgaria
+  date: April 2009
+
+- name: Looking through the Prism
+  url: http://sdrv.ms/OvP5qX
+  event: Microsoft Days Bulgaria
+  date: April 2009
+
+- name: Introduction to MEF
+  url: http://sdrv.ms/UA72b3
+  event: SofiaDev User Group
+  date: February 2009
+
+- name: From CLR to DLR
+  url: http://sdrv.ms/OhLgK0
+  event: Microsoft Days Bulgaria
+  date: April 2008
+ 
+- name: VS 2008 - Where is the phun?
+  url: http://sdrv.ms/OhL5ys
+  event: Microsoft Days Bulgaria
+  date: April 2008
+
+- name: WPF in practice
+  url: http://sdrv.ms/UA5Kgj
+  event: Microsoft Academic Roadshow
+  date: November 2007
+
+- name: How to think functionally with C# 3.0
+  url: http://sdrv.ms/QuvfyO
+  event: Microsoft Days Bulgaria
+  date: May 2007
+
+- name: Windows CardSpace - Behind the curtains
+  url: http://sdrv.ms/Quv2vk
+  event: Microsoft Days Bulgaria
+  date: May 2007
+
+- name: How to learn and educate your self into Microsoft Technologies - blogs, podcasts, webcasts
+  url: http://sdrv.ms/Qur0mV
+  event: Microsoft Academic Day
+  date: November 2006
+
+- name: Building Web Components - Gadgets
+  url: http://sdrv.ms/PRAupO
+  event: WebTech Conference
+  date: June 2006
+
+- name: WinFX Security - Identity 2.0 and InfoCard
+  url: http://sdrv.ms/Qurr0t
+  event: Microsoft Days Bulgaria
+  date: June 2006
+
+- name: LINQ - look at the future of .NET
+  url: http://sdrv.ms/OvP5qX
+  event: Microsoft Academic Day
+  date: April 2006
+
+- name: Programming models with SQL Server 2005
+  url: http://sdrv.ms/NhDyy1
+  event: Microsoft Academic Day
+  date: November 2005

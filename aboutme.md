@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm all in ...
+redirect_from: 
+  - /
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I’m Stefan Dobrev and I’m a software geek. I’m currently running my own startup with simple goal to make developer’s life simple, but not simpler. In the past I have worked at Telerik and helped building some of their most successful products like: RadControls for WPF/Silverlight, Icenium and Telerik Platform.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have been blogging since 2005 at many different sites, but have finally decided to buy my own piece from the vast Internet landscape. So here we go again until the end.
 
-What else do you need?
+### Here are my posts from the elder days
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* [Vizibility Blogs](http://web.archive.org/web/20070206172807/blogs.vizibility.net/sdobrev/default.aspx) (thanks to archive.org, because Vizibility’s site is no longer active anymore)
+* [ligAZ Blog](http://ligaz.blogspot.com/) (my post Vizibility and pre Telerik post are here)
+* [Bookvar Blog](http://blog.bookvar.net) (some of the posts here are my creations)
+* [Telerik Blogs](http://www.telerik.com/blogs/author/stefan-dobrev) (post from my glorious Telerik days)
+* [Telerik Developer Network](http://developer.telerik.com/author/sdobrev/) (even more from Telerik days)
